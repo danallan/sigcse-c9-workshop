@@ -1,0 +1,21 @@
+{
+  "name": "CS50 Seminar 1",
+  "description": "",
+  "version": "0.0.1",
+  "author": "Dan Armendariz",
+  "contributors": [
+    {
+      "name": "",
+      "email": ""
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "plugins": {
+    "plugin": {}
+  },
+  "categories": ["miscellaneous"],
+  "licenses": []
+}
